@@ -14,6 +14,4 @@ Este é um simples jogo de adivinhação desenvolvido em Rust. O jogo gera um n�
 ## Funcionalidades
 
 - O jogo gera um número aleatório entre 1 e 100.
-- O jogador tem um número limitado de tentativas para adivinhar o número.
-- O jogo fornece dicas ao jogador, indicando se o número a ser adivinhado é maior ou menor que a tentativa atual.
 - Ao final do jogo, o jogador é informado se ganhou ou perdeu.
